@@ -10,6 +10,8 @@ namespace E01BatallaDeCartas
     {
         static void Main(string[] args)
         {
+            Juego juego = new Juego();
+            Console.ReadKey();
         }
     }
 }

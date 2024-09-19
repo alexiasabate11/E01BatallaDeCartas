@@ -11,9 +11,9 @@ namespace E01BatallaDeCartas
         public enum ePalos
         {
             Oros,
-            Picas,
-            Corazones,
-            Diamantes
+            Copas,
+            Bastos,
+            Espadas
         }
         
         private int numero;
